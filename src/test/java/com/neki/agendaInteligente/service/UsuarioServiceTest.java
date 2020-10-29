@@ -35,7 +35,7 @@ public class UsuarioServiceTest {
 		repository.save(usuario);
 		
 		//Acao
-		//service.validarEmail("usuarioxxx@email.com");
+		service.validarEmail("usuarioxxx@email.com");
 	}
 
 }
