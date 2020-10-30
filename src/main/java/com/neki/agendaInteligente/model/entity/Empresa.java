@@ -20,7 +20,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table( name="empresas", schema="tann_marcacao_inteligente")
+@Table( name="empresas", schema="agenda_inteligente")
 @Builder
 @Data
 @NoArgsConstructor

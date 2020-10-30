@@ -15,7 +15,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table( name="chave", schema="tann_marcacao_inteligente")
+@Table( name="chave", schema="agenda_inteligente")
 @Builder
 @Data
 @NoArgsConstructor
